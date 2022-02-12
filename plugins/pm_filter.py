@@ -348,7 +348,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('𝙷𝙴𝚈{query.from_user.first_name}𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼...❤️',show_alert = True)
+                await query.answer('𝙷𝙴𝚈 𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼...❤️',show_alert = True)
         except UserIsBlocked:
             await query.answer('𝖴𝗇𝖻𝗅𝗈𝖼𝗄 𝗍𝗁𝖾 𝖻𝗈𝗍 𝗆𝖺𝗇!',show_alert = True)
         except PeerIdInvalid:
@@ -395,7 +395,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "help":
         buttons = [[
                       InlineKeyboardButton('𝖥𝗂𝗅𝗍𝖾𝗋', callback_data='hud'),
-            InlineKeyboardButton('𝖨𝗆𝖽𝖻', callback_data='imbd'),
+            InlineKeyboardButton('🇮🇳𝖨𝗆𝖽𝖻', callback_data='imbd'),
             InlineKeyboardButton('𝖯𝗎𝗋𝗀𝖾', callback_data='purge')
             ],[
             InlineKeyboardButton('𝖳𝗀𝗋𝖺𝗉𝗁', callback_data='tgraph'),
