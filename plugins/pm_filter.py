@@ -120,10 +120,10 @@ async def next_page(bot, query):
         off_set = offset - 10
     if n_offset == 0:
         btn.append(
-            [InlineKeyboardButton("𝙱𝙰𝙲𝙺", callback_data=f"next_{req}_{key}_{off_set}"), InlineKeyboardButton(f"📃 Pages {round(int(offset)/10)+1} / {round(total/10)}", callback_data="pages")]
+            [InlineKeyboardButton("𝙱𝙰𝙲𝙺", callback_data=f"next_{req}_{key}_{off_set}"), InlineKeyboardButton(f"🎭 Pages {round(int(offset)/10)+1} / {round(total/10)}", callback_data="𝙿𝙰𝙶𝙴𝚂")]
         )
     elif off_set is None:
-        btn.append([InlineKeyboardButton(f"🎭 {round(int(offset)/10)+1} / {round(total/10)}", callback_data="pages"), InlineKeyboardButton("𝙽𝙴𝚇𝚃", callback_data=f"next_{req}_{key}_{n_offset}")])
+        btn.append([InlineKeyboardButton(f"🎭 {round(int(offset)/10)+1} / {round(total/10)}", callback_data="𝙿𝙰𝙶𝙴𝚂"), InlineKeyboardButton("𝙽𝙴𝚇𝚃", callback_data=f"next_{req}_{key}_{n_offset}")])
     else:
         btn.append(
             [
@@ -348,7 +348,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     file_id=file_id,
                     caption=f_caption
                     )
-                await query.answer('𝙷𝙴𝚈 {mention} 𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼...❤️',show_alert = True)
+                await query.answer('𝙷𝙴𝚈 {query.from_user.first_name} 𝙲𝙷𝙴𝙲𝙺 𝙿𝙼, 𝙸 𝙷𝙰𝚅𝙴 𝚂𝙴𝙽𝚃 𝙵𝙸𝙻𝙴𝚂 𝙸𝙽 𝚈𝙾𝚄𝚁 𝙿𝙼...❤️',show_alert = True)
         except UserIsBlocked:
             await query.answer('𝖴𝗇𝖻𝗅𝗈𝖼𝗄 𝗍𝗁𝖾 𝖻𝗈𝗍 𝗆𝖺𝗇!',show_alert = True)
         except PeerIdInvalid:
@@ -384,7 +384,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('🎗️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗚𝗥𝗢𝗨𝗣🎗️ :)', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('🎗️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗔 𝗚𝗥𝗢𝗨𝗣🎗️ :)', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -418,9 +418,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝖦-𝖳𝗋𝖺𝗇𝗌', callback_data='gtrans'),
             InlineKeyboardButton('𝖲𝗍𝗂𝖼𝗄𝖾𝗋 𝖨𝖣', callback_data='stick')
             ],[
-            InlineKeyboardButton('𝗖𝗟𝗢𝗦𝗘🗑️', callback_data='close_data'),          
-            InlineKeyboardButton('🧿𝗦𝗧𝗔𝗧𝗦🧿', callback_data='stats'),
-            InlineKeyboardButton('𝙱𝙰𝙲𝙺', callback_data='start')
+            InlineKeyboardButton('Close', callback_data='close_data'),          
+            InlineKeyboardButton('Stats', callback_data='stats'),
+            InlineKeyboardButton('Back', callback_data='start')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -763,7 +763,7 @@ async def auto_filter(client, message):
             BUTTONS[key] = search
             req = message.from_user.id if message.from_user else 0
             btn.append(
-                [InlineKeyboardButton(text=f"🎭 1/{round(int(total_results)/10)}",callback_data="pages"), InlineKeyboardButton(text="𝙽𝙴𝚇𝚃",callback_data=f"next_{req}_{key}_{offset}")]
+                [InlineKeyboardButton(text=f"🎭 1/{round(int(total_results)/10)}",callback_data="𝙿𝙰𝙶𝙴𝚂"), InlineKeyboardButton(text="𝙽𝙴𝚇𝚃",callback_data=f"next_{req}_{key}_{offset}")]
             )
         else:
             btn.append(
