@@ -21,10 +21,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('𝖴𝗉𝖽𝖺𝗍𝖾𝗌', url='https://t.me/SakurabotUpdates')
+                InlineKeyboardButton('📉𝗨𝗣𝗗𝗔𝗧𝗘📉', url='https://t.me/ADHOLOKAMHDCHANNEL')
             ],
             [
-                InlineKeyboardButton('𝖧𝖾𝗅𝗉', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('⚡𝗛𝗘𝗟𝗣⚡', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -39,7 +39,7 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('𝖠𝖽𝖽 𝗆𝖾 𝗍𝗈 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌 :)', url=f'http://t.me/Sakurafilterbot?startgroup=true')
+            InlineKeyboardButton('🎗️𝗔𝗗𝗗 𝗠𝗘 𝗧𝗢 𝗔 𝗚𝗥𝗢𝗨𝗣🎗️ :)', url=f'http://t.me/Naruto_ahautofilterbot?startgroup=true')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
