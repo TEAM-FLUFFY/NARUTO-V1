@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="sakura/logo.jpg" alt="Sakura Logo">
+  <img src="https://telegra.ph/file/ea4791eb4e1b0b267aa05.jpg">
 </p>
 <h1 align="center">
-  <b>Sakura AutoFilter</b>
+  <b>Fluffy AutoFilter</b>
 </h1>
 
 ## This Bot May Look Like [Mwk_AutofilterBot](https://t.me/Mwk_Autofilterbot) And Its Because I Like Its UI, That's All</b>
@@ -17,7 +17,7 @@
 
 # Credits
 * `Base Repo Used In The Build - Eva Maria`
-* © [PaulWalker](https://telegram.dog/PaulWalker_TG)
+* © [FUCK](https://telegram.dog/TEAM_KERALA)
 * Powered By [XD_Botz](https://telegram.dog/xd_botz)
 * [Subin Ps](https://telegram.dog/subin_works)
 
@@ -52,12 +52,12 @@
 `PaulWalker_TG`
 
 ## Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/saminsumesh/TeamSakura"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT"> <img src="https://telegra.ph/file/a61f824573cd189934362.jpg" width="200""/></a></p>
 
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/SaminSumesh/TeamSakura
+git clone https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT
 # Install Packages
 # pip3 install -r requirements.txt
 Edit `info.py` with variables as given below then run bot
@@ -92,6 +92,3 @@ python3 bot.py
 • /channel - to get list of total connected channels
 • /broadcast - to broadcast a message to all users
 ```
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Sakurabotsupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/SakurabotUpdates)
