@@ -40,7 +40,7 @@ class script(object):
 ○ 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href='https://www.heroku.com'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
 ○ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
 ○ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝖵8.𝟩 [𝖬𝖺𝗃𝗈𝗋]
-○ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 : <a href='https://github.com/EvamariaTG/EvaMaria'>𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴</a>
+○ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 : <a href='https://github.com/EvamariaTG/EvaMaria'>𝙱𝙰𝚂𝙴 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴</a>
 """
     SOURCE_TXT = """<b>NOTE:</b>
 - NARUTO-V1 is a closed source project.   
