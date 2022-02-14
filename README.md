@@ -52,19 +52,8 @@
 `PaulWalker_TG`
 
 ## Deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT"> <img src="https://telegra.ph/file/a61f824573cd189934362.jpg" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/TG-chembanreju/Team-BlackPanther"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/TEAM-FLUFFY/TeamFluffyRoBOT
-# Install Packages
-# pip3 install -r requirements.txt
-Edit `info.py` with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
 
 ## Commands
 ```
