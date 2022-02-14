@@ -7,7 +7,7 @@
 
 ## This Bot May Look Like [Mwk_AutofilterBot](https://t.me/Mwk_Autofilterbot) And Its Because I Like Its UI, That's All</b>
 
-# [Sakura](https://t.me/SakuraFilterBot) is an powerfull Autofilter bot that can be used in your groups 
+# [🇨🇷ᑎᗩᖇᑌTO](https://t.me/Naruto_ahautofilterbot) is an powerfull Autofilter bot that can be used in your groups 
 `Am not recommending you to use the bot in normal groups`
 
 # Wait for v8.0 Build with customised Autofilter 🥺
