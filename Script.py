@@ -33,7 +33,7 @@ class script(object):
 𝖬𝖺𝖽𝖾 𝖻𝗒 @ADHOLOKAMHDCHANNEL ❤️
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href='https://t.me/Naruto_ahautofilterbot'>🇨🇷ᑎᗩᖇᑌTO</a>
+○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href='https://t.me/Zendaya_autofilterBot'>🇨🇷𝖹𝖤𝖭𝖣𝖠𝖸𝖠</a>
 ○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ🇨🇷[𝗢𝗙𝗙𝗟𝗜𝗡𝗘]</a>
 ○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
 ○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
