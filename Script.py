@@ -33,16 +33,17 @@ class script(object):
 𝖬𝖺𝖽𝖾 𝖻𝗒 @ADHOLOKAMHDCHANNEL ❤️
 """
     ABOUT_TXT = """
-○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href='https://t.me/Zendaya_autofilterBot'>🇨🇷𝖹𝖤𝖭𝖣𝖠𝖸𝖠</a>
-○ 𝖢𝗋𝖾𝖺𝗍𝗈𝗋 : <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ🇨🇷[𝗢𝗙𝗙𝗟𝗜𝗡𝗘]</a>
-○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
-○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
-○ 𝖲𝖾𝗋𝗏𝖾𝗋 : <a href='https://www.heroku.com'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
-○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
-○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵8.𝟩 [𝖬𝖺𝗃𝗈𝗋]
+○ 𝙼𝚈 𝙽𝙰𝙼𝙴 : <a href='https://t.me/Zendaya_autofilterBot'>🇨🇷𝖹𝖤𝖭𝖣𝖠𝖸𝖠</a>
+○ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ🇨🇷[𝗢𝗙𝗙𝗟𝗜𝗡𝗘]</a>
+○ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+○ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆 𝖺𝗌𝗒𝗇𝖼𝗂𝗈 𝟢.𝟣𝟩.𝟣 
+○ 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href='https://www.heroku.com'>𝖧𝖾𝗋𝗈𝗄𝗎</a>
+○ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 : <a href='https://www.mongodb.com'>𝖬𝗈𝗇𝗀𝗈𝖣𝖡 𝖥𝗋𝖾𝖾 𝖳𝗂𝖾𝗋</a>
+○ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : 𝖵8.𝟩 [𝖬𝖺𝗃𝗈𝗋]
+○ 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 : <a href='https://github.com/EvamariaTG/EvaMaria'>𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴</a>
 """
     SOURCE_TXT = """<b>NOTE:</b>
-- Sakura is a closed source project.   
+- NARUTO-V1 is a closed source project.   
 
 <b>DEVS:</b>
 - <a href='https://t.me/TEAM_KERALA'>ᖴᑌᑕK Oᖴᖴ🇨🇷[𝗢𝗙𝗙𝗟𝗜𝗡𝗘]</a>
